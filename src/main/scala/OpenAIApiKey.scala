@@ -1,3 +1,0 @@
-object OpenAIApiKey {
-  val apikey = "***"
-}
